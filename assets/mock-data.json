@@ -1,0 +1,253 @@
+{
+    "id": "067e5d5c-271b-11e7-93f5-97b6c022f067",
+    "name": "Russ routine 1",
+    "workouts": [
+        {
+            "id": "1e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Chest Press",
+            "weight": 20,
+            "sets": 3,
+            "reps": 10,
+            "exercise": {
+                "id": "3b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Chest Press",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Machine"
+                },
+                "exerciseLocation": {
+                    "id": "5feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Chest"
+                }                
+            }
+        },
+        {
+            "id": "2e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Shoulder Press",
+            "weight": 20,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "2b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Shoulder Press",
+                "exerciseType": {
+                    "id": "2bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Bench"
+                },
+                "exerciseLocation": {
+                    "id": "2feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Shoulders"
+                }                
+            }
+        },        
+        {
+            "id": "3e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Lat Pulldown",
+            "weight": 10,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "3b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Lat Pulldown",
+                "exerciseType": {
+                    "id": "3bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Machine"
+                },
+                "exerciseLocation": {
+                    "id": "3feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Back"
+                }                
+            }
+        },          
+        {
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Dumbbell Pec Fly",
+            "weight": 25,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Dumbbell Pec Fly",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Bench"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Chest"
+                }                
+            }
+        },        
+        {
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Dumbbell Lat Raise",
+            "weight": 6,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Dumbbell Lat Raise",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Bench"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Back"
+                }                
+            }
+        },    
+        { 
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Tricep Pulldown",
+            "weight": 30,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Tricep Pulldown",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Machine"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Arms"
+                }                
+            }
+        },     
+        { 
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Bicep Curl",
+            "weight": 30,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Bicep Curl",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Bench"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Arms"
+                }                
+            }
+        },       
+        { 
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Tricep Dip",
+            "weight": 30,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Tricep Dip",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Machine"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Arms"
+                }                
+            }
+        },        
+        { 
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Cable Curl",
+            "weight": 30,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Cable Curl",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Machine"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Arms"
+                }                
+            }
+        },     
+        { 
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Preacher Curl",
+            "weight": 30,
+            "sets": 3,
+            "reps": 10,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Preacher Curl",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Machine"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Arms"
+                }                
+            }
+        },            
+        { 
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Situp",
+            "weight": 0,
+            "sets": 3,
+            "reps": 30,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Situp",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Floor"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Abs"
+                }                
+            }
+        },         
+        { 
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Bicycle Kick",
+            "weight": 0,
+            "sets": 3,
+            "reps": 60,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Bicycle Kick",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Floor"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Abs"
+                }                
+            }
+        },       
+        { 
+            "id": "4e094112-271b-11e7-b792-bf586a398db0",
+            "name": "Plank",
+            "weight": 60,
+            "sets": 3,
+            "reps": 1,            
+            "exercise": {
+                "id": "4b003e74-271b-11e7-aebd-1712575aaaf8",
+                "name": "Plank",
+                "exerciseType": {
+                    "id": "4bd87694-271b-11e7-80f6-cf2d9171d6e0",
+                    "name": "Floor"
+                },
+                "exerciseLocation": {
+                    "id": "4feef374-271b-11e7-ab0f-079d8c7b8025",
+                    "name": "Abs"
+                }                
+            }
+        }                                        
+    ]
+}
